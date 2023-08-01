@@ -1,0 +1,15 @@
+C:\Users\FlapStap\Desktop\atest\3les\bin\Debug\net6.0\3les.exe
+C:\Users\FlapStap\Desktop\atest\3les\bin\Debug\net6.0\3les.deps.json
+C:\Users\FlapStap\Desktop\atest\3les\bin\Debug\net6.0\3les.runtimeconfig.json
+C:\Users\FlapStap\Desktop\atest\3les\bin\Debug\net6.0\3les.dll
+C:\Users\FlapStap\Desktop\atest\3les\bin\Debug\net6.0\3les.pdb
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\3les.csproj.AssemblyReference.cache
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\3les.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\3les.AssemblyInfoInputs.cache
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\3les.AssemblyInfo.cs
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\3les.csproj.CoreCompileInputs.cache
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\3les.dll
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\refint\3les.dll
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\3les.pdb
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\3les.genruntimeconfig.cache
+C:\Users\FlapStap\Desktop\atest\3les\obj\Debug\net6.0\ref\3les.dll
